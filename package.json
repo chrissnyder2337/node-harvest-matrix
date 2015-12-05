@@ -1,0 +1,24 @@
+{
+  "name": "node-harvest-matrix",
+  "version": "0.1.0",
+  "description": "A Harvest status display using a led matrix connected to a RaspberryPI.",
+  "main": "harvest-status.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrissnyder2337/node-harvest-matrix.git"
+  },
+  "keywords": [
+    "harvest",
+    "harvestapi",
+    "ledmatrix"
+  ],
+  "author": "Chris Snyder <chris@chrissnyder.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrissnyder2337/node-harvest-matrix/issues"
+  },
+  "homepage": "https://github.com/chrissnyder2337/node-harvest-matrix#readme"
+}
